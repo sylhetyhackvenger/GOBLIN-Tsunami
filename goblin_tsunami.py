@@ -83,6 +83,7 @@ BANNER_ART = r'''
     "##".###,##     .o#o ""####.
          "##"      .0############.
                  .n##RADIUS#######
+    AUTHOR : SYLHETYHACKVENGER (THE-ERROR808)               
 '''
 
 # ==================== BANNER RENDERER ====================
