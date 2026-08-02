@@ -1,4 +1,6 @@
-🐉 GOBLIN TSUNAMI - Professional README.md
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
 
 <div align="center">
 
