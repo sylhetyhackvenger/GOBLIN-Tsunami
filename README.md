@@ -30,7 +30,7 @@
 - **TikTok**: Content analysis, viral trend tracking, sound/music identification
 
 ### 🔍 Advanced Tracking Categories
-```
+
 
 📍 Location Intelligence    👥 Social Network Analysis
 💼 Professional Profile      🎯 Interest & Behavior Mapping
@@ -51,6 +51,7 @@
 ---
 
 ## 🏗️ Architecture & Digital Simulator
+
 
 ```mermaid
 graph TB
